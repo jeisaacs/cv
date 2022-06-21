@@ -178,7 +178,7 @@ skills:
         level: 85%
 
       - name: Coding
-        level: <5%
+        level: 5%
 
 footer: >
     (C) 2022 Jonathan Isaacs
