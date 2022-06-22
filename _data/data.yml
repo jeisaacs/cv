@@ -49,28 +49,38 @@ career-profile:
 
     When not at work, I enjoy reading (which I do frequently), having a catch up with friends (which I do frequently), and hitting the gym (which I dont do as frequently as I would like).
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Bar Professional Training Course
+      university: The Manchester Metropolitan University
+      time: 2012 - 2013
+     # details: |
+     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+     #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+     #  sociis natoque penatibus et magnis dis parturient montes, nascetur
+     #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+     #   pretium quis, sem.
+     #     - Bullet point
+     #     - Bullet point
+    - degree: Graduate Diploma In Law (GDL)
+      university: The Manchester Metropolitan University
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+     #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+     #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+     #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+     #   pretium quis, sem.
+     #     - Bullet point
+     #     - Bullet point
+     - degree: Business Management With Law Bsc (Hon), 2:1
+      university: The University of Salford
+      time: 2008 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       Relevant moduels:
+       - Law Relating To Business
+       - Advanced Business Law
+       - Employment Law
+       - Intellectual Property Law
+       - International Trade Law.
 experiences:
     - role: Lead Developer
       time: 2015 - Present
