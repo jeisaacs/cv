@@ -21,11 +21,11 @@ sidebar:
     goodreads: 94829672-jonathan # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
+    languages: 
       - idiom: English
         level: Native
 
-    interests:
+    interests: 
       - item: 🖥️ Tech
         link:
 
@@ -38,7 +38,7 @@ sidebar:
       - item: 💪 Gym
         link:
 
-career-profile:
+career-profile: 
     title: Career Profile
     details: |
     A technology fan-boy who has turned his enthusiasim for the digital world into way of life.
@@ -48,7 +48,7 @@ career-profile:
     Using both Waterfal and Agile methodologies building with, leading, and working in teams to develop, install and train customers to use award winning technological solutions. 
 
     When not at work, I enjoy reading (which I do frequently), having a catch up with friends (which I do frequently), and hitting the gym (which I dont do as frequently as I would like).
-education:
+education: 
     - degree: Bar Professional Training Course
       university: The Manchester Metropolitan University
       time: 2012 - 2013
@@ -81,7 +81,7 @@ education:
        - Employment Law
        - Intellectual Property Law
        - International Trade Law.
-#experiences:
+#experiences: 
 #    - role: Lead Developer
 #      time: 2015 - Present
 #      company: Startup Hubs, San Francisco
@@ -146,20 +146,20 @@ education:
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 #
-licences & certifiations:
+licences & certifiations: 
     title: Licences & Certifiations
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
-    Memberships:
+    Memberships: 
       - organisation: Mind
         link: "https://www.mind.org.uk/"
 
         - organisation: Association for Project Management
         link: "https://www.apm.org.uk/"
         
-    Certifications
+    Certifications: 
       - name: Certified Scrum Product Owner (CSPO)
         issuing organisation: Scrum Aliance
         issued: 02/2022
@@ -209,10 +209,10 @@ licences & certifiations:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
+skills: 
     title: Skills &amp; Proficiency
 
-    toolset:
+    toolset: 
       - name: Product strategy and vision from idea conception, through to wire framing, UAT and release.
         level: 98%
 
