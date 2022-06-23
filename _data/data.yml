@@ -7,187 +7,229 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jonathan Isaacs
+    tagline: Product Owner | SaaS | Agile | Scrum
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: jonathan@jonathanisaacs.com
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    website: jonathanisaacs.com #do not add http://
+    linkedin: jeisaacs
+    github: jeisaacs
+    twitter: '@jonathanisaacs'
+    goodreads: 94829672-jonathan # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: 🖥️ Tech
         link:
 
-      - item: Snowboarding
+      - item: 📚️ Reading
         link:
 
-      - item: Cooking
+      - item: 🎞️ Films
+        link:
+        
+      - item: 💪 Gym
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    A technology fan-boy who has turned his enthusiasim for the digital world into way of life.
+
+    Across a wide variety of sectors, displaying highly proficient skills in Business Analysis, Project Management, and Product Management.
+
+    Using both Waterfal and Agile methodologies building with, leading, and working in teams to develop, install and train customers to use award winning technological solutions. 
+
+    When not at work, I enjoy reading (which I do frequently), having a catch up with friends (which I do frequently), and hitting the gym (which I dont do as frequently as I would like).
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Bar Professional Training Course
+      university: The Manchester Metropolitan University
+      time: 2012 - 2013
+     # details: |
+     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+     #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+     #  sociis natoque penatibus et magnis dis parturient montes, nascetur
+     #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+     #   pretium quis, sem.
+     #     - Bullet point
+     #     - Bullet point
+    - degree: Graduate Diploma In Law (GDL)
+      university: The Manchester Metropolitan University
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+     #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+     #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+     #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+     #   pretium quis, sem.
+     #     - Bullet point
+     #     - Bullet point
+     - degree: Business Management With Law Bsc (Hon), 2:1
+      university: The University of Salford
+      time: 2008 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+       Relevant moduels:
+       - Law Relating To Business
+       - Advanced Business Law
+       - Employment Law
+       - Intellectual Property Law
+       - International Trade Law.
+#experiences:
+#    - role: Lead Developer
+#      time: 2015 - Present
+#      company: Startup Hubs, San Francisco
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#        error sit voluptatem accusantium doloremque laudantium, totam rem
+#        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#        architecto beatae vitae dicta sunt explicabo.
+#          - Bullet point
+#          - Bullet point
+#    - role: Senior Software Engineer
+#      time: 2014 - 2015
+#      company: Google, London
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
+#    - role: UI Developer
+#      time: 2012 - 2014
+#      company: Amazon, London
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
+licences & certifiations:
+    title: Licences & Certifiations
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+    Memberships:
+      - organisation: Mind
+        link: "https://www.mind.org.uk/"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        - organisation: Association for Project Management
+        link: "https://www.apm.org.uk/"
+        
+    Certifications
+      - name: Certified Scrum Product Owner (CSPO)
+        issuing organisation: Scrum Aliance
+        issued: 02/2022
+        expiration: 02/2024
+        link: http://bcert.me/ssbakjjxa
+        
+      - name: Snaggit 2021 Certification
+        issuing organisation: TechSmith
+        issued: 12/2021
+        expiration: None
+        link: https://verify.skilljar.com/c/ik4yqxosr7f9
+        
+      - name: Camtasia 2021 Certification
+        issuing organisation: TechSmith
+        issued: 10/2021
+        expiration: None
+        link: https://verify.skilljar.com/c/22pteym6m2pg
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - name: Scrum Master
+        issuing organisation: The Knowledge Academy
+        issued: 11/2018
+        expiration: None
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - name: Prince2 2009
+        issuing organisation: AXELOS
+        issued: 09/2017
+        expiration: None
+        
+      - name: Business Analysis
+        issuing organisation: BCS, The Charted Institute for IT
+        issued: 10/2015
+        expiration: None     
+        
+      - name: Qualified Mediator
+        issuing organisation: ADR Group
+        issued: 06/2013
+        expiration: None      
+ 
+ 
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Product strategy and vision from idea conception, through to wire framing, UAT and release.
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Data analysis, research and analysis to recognise stakeholder requirements
         level: 98%
 
-      - name: Angular
+      - name: Influence and negotation
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Leadership and Team Development
         level: 95%
 
-      - name: Ruby on Rails
+      - name: ‘Breaking free of the box’ problem solving
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Coding
+        level: 5%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    (C) 2022 Jonathan Isaacs
