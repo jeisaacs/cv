@@ -1,0 +1,52 @@
+{% assign membershipsAndCertifications = site.data.data.membershipsAndCertifications %}
+{% if membershipsAndCertifications %}
+<section class="section experiences-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ membershipsAndCertifications.title }}
+  </h2>
+
+  <h3 class="level-title">Memberships</h3>
+  {% for membership in membershipsAndCertifications.Memberships %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <div class="company">{{ membership.organisation }}</div>
+      </div><!--//upper-row-->
+      
+      <div class="details">
+        <a href={{membership.link}}>{{ membership.link }}</a>
+      </div><!--//details-->
+    </div><!--//meta-->
+
+  </div><!--//item-->
+  {% endfor %}
+
+  <h3 class="level-title">Certifications</h3>
+  {% for certification in membershipsAndCertifications.Certifications %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <div class="company">{{ certification.name }}</div>
+        <div class="company">{{ certification.issuingOrganisation }}</div>
+        <div class="time">{{ certification.issued }} - {{ certification.expiration }}</div>
+      </div><!--//upper-row-->
+      
+      <div class="details">
+        <a href={{certification.link}}>{{ certification.link }}</a>
+      </div><!--//details-->
+    </div><!--//meta-->
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
+
