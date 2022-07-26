@@ -41,13 +41,13 @@ sidebar:
 career-profile: 
     title: Career Profile
     details: |
-    A technology fan-boy who has turned his enthusiasim for the digital world into way of life.
+      A technology fan-boy who has turned his enthusiasm for the digital world into way of life.
 
-    Across a wide variety of sectors, displaying highly proficient skills in Business Analysis, Project Management, and Product Management.
+      Across a wide variety of sectors, displaying highly proficient skills in Business Analysis, Project Management, and Product Management.
 
-    Using both Waterfal and Agile methodologies building with, leading, and working in teams to develop, install and train customers to use award winning technological solutions. 
+      Using both Waterfall and Agile methodologies building with, leading, and working in teams to develop, install and train customers to use award winning technological solutions. 
 
-    When not at work, I enjoy reading (which I do frequently), having a catch up with friends (which I do frequently), and hitting the gym (which I dont do as frequently as I would like).
+      When not at work, I enjoy reading (which I do frequently), having a catch up with friends (which I do frequently), and hitting the gym (which I dont do as frequently as I would like).
 education: 
     - degree: Bar Professional Training Course
       university: The Manchester Metropolitan University
@@ -64,23 +64,16 @@ education:
       university: The Manchester Metropolitan University
       time: 2011 - 2012
       details: |
-     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-     #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-     #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-     #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-     #   pretium quis, sem.
-     #     - Bullet point
-     #     - Bullet point
-     - degree: Business Management With Law Bsc (Hon), 2:1
-      university: The University of Salford
-      time: 2008 - 2011
-      details: |
-       Relevant moduels:
-       - Law Relating To Business
-       - Advanced Business Law
-       - Employment Law
-       - Intellectual Property Law
-       - International Trade Law.
+        - degree: Business Management With Law Bsc (Hon), 2:1
+        university: The University of Salford
+        time: 2008 - 2011
+        details: |
+        Relevant modules:
+        - Law Relating To Business
+        - Advanced Business Law
+        - Employment Law
+        - Intellectual Property Law
+        - International Trade Law.
 #experiences: 
 #    - role: Lead Developer
 #      time: 2015 - Present
@@ -146,8 +139,8 @@ education:
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 #
-licences & certifiations: 
-    title: Licences & Certifiations
+licences & certifications: 
+    title: Licences & certifications
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -156,7 +149,7 @@ licences & certifiations:
       - organisation: Mind
         link: "https://www.mind.org.uk/"
 
-        - organisation: Association for Project Management
+      - organisation: Association for Project Management
         link: "https://www.apm.org.uk/"
         
     Certifications: 
@@ -219,7 +212,7 @@ skills:
       - name: Data analysis, research and analysis to recognise stakeholder requirements
         level: 98%
 
-      - name: Influence and negotation
+      - name: Influence and negotiation
         level: 98%
 
       - name: Leadership and Team Development
