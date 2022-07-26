@@ -3,226 +3,139 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Jonathan Isaacs
-    tagline: Product Owner | SaaS | Agile | Scrum
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Jonathan Isaacs
+  tagline: Product Owner | SaaS | Agile | Scrum
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: jonathan@jonathanisaacs.com
-    citizenship:
-    website: jonathanisaacs.com #do not add http://
-    linkedin: jeisaacs
-    github: jeisaacs
-    twitter: '@jonathanisaacs'
-    goodreads: 94829672-jonathan # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: jonathan@jonathanisaacs.com
+  citizenship:
+  website: jonathanisaacs.com #do not add http://
+  linkedin: jeisaacs
+  github: jeisaacs
+  twitter: '@jonathanisaacs'
+  goodreads: 94829672-jonathan # Number-Username, e.g. 123456-alandoe
+  pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages: 
-      - idiom: English
-        level: Native
+  languages: 
+    - idiom: English
+      level: Native
 
-    interests: 
-      - item: 🖥️ Tech
-        link:
+  interests: 
+    - item: 🖥️ Tech
+      link:
 
-      - item: 📚️ Reading
-        link:
+    - item: 📚️ Reading
+      link:
 
-      - item: 🎞️ Films
-        link:
-        
-      - item: 💪 Gym
-        link:
+    - item: 🎞️ Films
+      link:
+      
+    - item: 💪 Gym
+      link:
 
 career-profile: 
-    title: Career Profile
-    details: |
-      A technology fan-boy who has turned his enthusiasm for the digital world into way of life.
+  title: Career Profile
+  details: |
+    A technology fan-boy who has turned his enthusiasm for the digital world into way of life.
 
-      Across a wide variety of sectors, displaying highly proficient skills in Business Analysis, Project Management, and Product Management.
+    Across a wide variety of sectors, displaying highly proficient skills in Business Analysis, Project Management, and Product Management.
 
-      Using both Waterfall and Agile methodologies building with, leading, and working in teams to develop, install and train customers to use award winning technological solutions. 
+    Using both Waterfall and Agile methodologies building with, leading, and working in teams to develop, install and train customers to use award winning technological solutions. 
 
-      When not at work, I enjoy reading (which I do frequently), having a catch up with friends (which I do frequently), and hitting the gym (which I dont do as frequently as I would like).
+    When not at work, I enjoy reading (which I do frequently), having a catch up with friends (which I do frequently), and hitting the gym (which I dont do as frequently as I would like).
 education: 
-    - degree: Bar Professional Training Course
-      university: The Manchester Metropolitan University
-      time: 2012 - 2013
-     # details: |
-     #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-     #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-     #  sociis natoque penatibus et magnis dis parturient montes, nascetur
-     #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-     #   pretium quis, sem.
-     #     - Bullet point
-     #     - Bullet point
-    - degree: Graduate Diploma In Law (GDL)
-      university: The Manchester Metropolitan University
-      time: 2011 - 2012
+  - degree: Bar Professional Training Course
+    university: The Manchester Metropolitan University
+    time: 2012 - 2013
+  - degree: Graduate Diploma In Law (GDL)
+    university: The Manchester Metropolitan University
+    time: 2011 - 2012
+    details: |
+      - degree: Business Management With Law Bsc (Hon), 2:1
+      university: The University of Salford
+      time: 2008 - 2011
       details: |
-        - degree: Business Management With Law Bsc (Hon), 2:1
-        university: The University of Salford
-        time: 2008 - 2011
-        details: |
-        Relevant modules:
-        - Law Relating To Business
-        - Advanced Business Law
-        - Employment Law
-        - Intellectual Property Law
-        - International Trade Law.
-#experiences: 
-#    - role: Lead Developer
-#      time: 2015 - Present
-#      company: Startup Hubs, San Francisco
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#        error sit voluptatem accusantium doloremque laudantium, totam rem
-#        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#        architecto beatae vitae dicta sunt explicabo.
-#          - Bullet point
-#          - Bullet point
-#    - role: Senior Software Engineer
-#      time: 2014 - 2015
-#      company: Google, London
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
-#    - role: UI Developer
-#      time: 2012 - 2014
-#      company: Amazon, London
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-#
+      Relevant modules:
+      - Law Relating To Business
+      - Advanced Business Law
+      - Employment Law
+      - Intellectual Property Law
+      - International Trade Law.
+
 licences & certifications: 
-    title: Licences & certifications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-    Memberships: 
-      - organisation: Mind
-        link: "https://www.mind.org.uk/"
+  title: Licences & certifications
+  Memberships: 
+    - organisation: Mind
+      link: "https://www.mind.org.uk/"
 
-      - organisation: Association for Project Management
-        link: "https://www.apm.org.uk/"
-        
-    Certifications: 
-      - name: Certified Scrum Product Owner (CSPO)
-        issuing organisation: Scrum Aliance
-        issued: 02/2022
-        expiration: 02/2024
-        link: http://bcert.me/ssbakjjxa
-        
-      - name: Snaggit 2021 Certification
-        issuing organisation: TechSmith
-        issued: 12/2021
-        expiration: None
-        link: https://verify.skilljar.com/c/ik4yqxosr7f9
-        
-      - name: Camtasia 2021 Certification
-        issuing organisation: TechSmith
-        issued: 10/2021
-        expiration: None
-        link: https://verify.skilljar.com/c/22pteym6m2pg
+    - organisation: Association for Project Management
+      link: "https://www.apm.org.uk/"
+      
+  Certifications: 
+    - name: Certified Scrum Product Owner (CSPO)
+      issuing organisation: Scrum Aliance
+      issued: 02/2022
+      expiration: 02/2024
+      link: http://bcert.me/ssbakjjxa
+      
+    - name: Snaggit 2021 Certification
+      issuing organisation: TechSmith
+      issued: 12/2021
+      expiration: None
+      link: https://verify.skilljar.com/c/ik4yqxosr7f9
+      
+    - name: Camtasia 2021 Certification
+      issuing organisation: TechSmith
+      issued: 10/2021
+      expiration: None
+      link: https://verify.skilljar.com/c/22pteym6m2pg
 
-      - name: Scrum Master
-        issuing organisation: The Knowledge Academy
-        issued: 11/2018
-        expiration: None
+    - name: Scrum Master
+      issuing organisation: The Knowledge Academy
+      issued: 11/2018
+      expiration: None
 
-      - name: Prince2 2009
-        issuing organisation: AXELOS
-        issued: 09/2017
-        expiration: None
-        
-      - name: Business Analysis
-        issuing organisation: BCS, The Charted Institute for IT
-        issued: 10/2015
-        expiration: None     
-        
-      - name: Qualified Mediator
-        issuing organisation: ADR Group
-        issued: 06/2013
-        expiration: None      
- 
- 
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+    - name: Prince2 2009
+      issuing organisation: AXELOS
+      issued: 09/2017
+      expiration: None
+      
+    - name: Business Analysis
+      issuing organisation: BCS, The Charted Institute for IT
+      issued: 10/2015
+      expiration: None     
+      
+    - name: Qualified Mediator
+      issuing organisation: ADR Group
+      issued: 06/2013
+      expiration: None      
 
 skills: 
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset: 
-      - name: Product strategy and vision from idea conception, through to wire framing, UAT and release.
-        level: 98%
+  toolset: 
+    - name: Product strategy and vision from idea conception, through to wire framing, UAT and release.
+      level: 98%
 
-      - name: Data analysis, research and analysis to recognise stakeholder requirements
-        level: 98%
+    - name: Data analysis, research and analysis to recognise stakeholder requirements
+      level: 98%
 
-      - name: Influence and negotiation
-        level: 98%
+    - name: Influence and negotiation
+      level: 98%
 
-      - name: Leadership and Team Development
-        level: 95%
+    - name: Leadership and Team Development
+      level: 95%
 
-      - name: ‘Breaking free of the box’ problem solving
-        level: 85%
+    - name: ‘Breaking free of the box’ problem solving
+      level: 85%
 
-      - name: Coding
-        level: 5%
+    - name: Coding
+      level: 5%
 
 footer: >
-    (C) 2022 Jonathan Isaacs
+  (C) 2022 Jonathan Isaacs
